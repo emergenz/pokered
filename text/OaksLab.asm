@@ -167,7 +167,9 @@ _OaksLabText_1d31d::
 _OaksLabText_1d32c::
 	text "It's encyclopedia-"
 	line "like, but the"
-	cont "pages are blank!"
+	cont "pages are full"
+	cont "of gibberish"
+	cont "about love!"
 	done
 
 _OaksLabText8::
@@ -250,12 +252,41 @@ _OaksLabRivalReceivedMonText::
 _OaksLabRivalChallengeText::
 	text "<RIVAL>: Wait"
 	line "<PLAYER>!"
-	cont "Let's check out"
+	cont "I need to tell"
+	cont "you something."
+
+	para "I'm going to"
+	line "keep myself"
+	cont "short."
+
+	para "You are the"
+	line "greatest thing"
+	cont "that ever"
+	cont "happened to me"
+	cont "and I want you"
+	cont "to never forget"
+	cont "that you are"
+	cont "the purest"
+	cont "angel"
+	cont "and a blessing"
+	cont "for me and the"
+	cont "whole world!"
+
+	para "Sooo..."
+	line "Do you want to"
+	cont "be my girlfriend?"
+	done
+
+
+_OaksLabRivalChallengeText2::
+	para "With that out"
+	line "of the way:"
+
+	para "Let's check out"
 	cont "our #MON!"
 
 	para "Come on, I'll take"
 	line "you on!"
-	done
 
 _OaksLabText_1d3be::
 	text "WHAT?"
@@ -275,8 +306,9 @@ _OaksLabRivalToughenUpText::
 	cont "#MON fight to"
 	cont "toughen it up!"
 
-	para "<PLAYER>! Gramps!"
-	line "Smell you later!"
+	para "<PLAYER>!"
+	line "LOVE YOU!"
+	cont "Smell you later!"
 	done
 
 _OaksLabText21::

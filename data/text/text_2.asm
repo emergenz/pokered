@@ -281,7 +281,7 @@ _CeladonCityHotelText::
 
 _BookcaseText::
 	text "Crammed full of"
-	line "#MON books!"
+	line "love letters!"
 	done
 
 _NewBicycleText::
@@ -419,25 +419,15 @@ _OakLabEmailText::
 
 	para "..."
 
-	para "Calling all"
-	line "#MON trainers!"
+	para "Dear Navi,"
+	line "you are the"
+	cont "kindest"
+	cont "and dearest"
+	cont "and hottest"
+	cont "and smartest"
+	cont "girl of them"
+	cont "all!"
 
-	para "The elite trainers"
-	line "of #MON LEAGUE"
-	cont "are ready to take"
-	cont "on all comers!"
-
-	para "Bring your best"
-	line "#MON and see"
-	cont "how you rate as a"
-	cont "trainer!"
-
-	para "#MON LEAGUE HQ"
-	line "INDIGO PLATEAU"
-
-	para "PS: PROF.OAK,"
-	line "please visit us!"
-	cont "..."
 	done
 
 _GameCornerCoinCaseText::
@@ -576,7 +566,8 @@ _IndigoPlateauHQText::
 
 _RedBedroomSNESText::
 	text "<PLAYER> is"
-	line "playing the SNES!"
+	line "playing"
+	cont "The Witcher!"
 	cont "...Okay!"
 	cont "It's time to go!"
 	done
@@ -799,7 +790,7 @@ _IndigoPlateauStatuesText3::
 
 _PokemonBooksText::
 	text "Crammed full of"
-	line "#MON books!"
+	line "love letters!"
 	done
 
 _DiglettSculptureText::

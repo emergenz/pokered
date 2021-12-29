@@ -1168,6 +1168,13 @@ OaksLabText15:
 	text_asm
 	ld hl, OaksLabRivalChallengeText
 	call PrintText
+	
+	hlcoord 14, 7
+	lb bc, 8, 15
+	ld a, TWO_OPTION_MENU
+	ld [wTextBoxID], a
+	call DisplayTextBoxID
+
 	jp TextScriptEnd
 
 OaksLabRivalChallengeText:
